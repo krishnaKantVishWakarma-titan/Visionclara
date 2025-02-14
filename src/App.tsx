@@ -1,5 +1,5 @@
 // import './App.css'
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { HashRouter, Routes, Route } from 'react-router-dom'
 
 // Import necessary routing components from react-router-dom
 import { Home } from './pages/Home'
@@ -9,26 +9,19 @@ import { Services } from './pages/Services'
 import { Terms } from './pages/Terms'
 import { Privacy } from './pages/Privacy'
 
-// Define the routes as a JSON object
-const routes = [
-  { path: "/", component: <Home /> },
-  { path: "/about", component: <About /> },
-  { path: "/contact", component: <Contact /> },
-  { path: "/services", component: <Services /> },
-  { path: "/terms", component: <Terms /> },
-  { path: "/privacy", component: <Privacy /> },
-];
-
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
-          {routes.map((route, index) => (
-            <Route key={index} path={route.path} element={route.component} />
-          ))}
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/services" element={<Services />} />
+          <Route path="/terms" element={<Terms />} />
+          <Route path="/privacy" element={<Privacy />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   )
 }

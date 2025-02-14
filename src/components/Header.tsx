@@ -1,4 +1,4 @@
-import { useLocation } from 'react-router-dom';
+import { useLocation, Link } from 'react-router-dom';
 
 // Define the links as a JSON object
 const navLinks = [
@@ -19,9 +19,9 @@ export function Header() {
         <div className="px-4 md:px-0 flex justify-between items-center">
           <div className="flex items-center">
             {/* Logo */}
-            <a className="flex-none text-md font-semibold dark:text-white" href="/" aria-label="Visionclara">
+            <Link className="flex-none text-md font-semibold dark:text-white" to="/" aria-label="Visionclara">
                 Visionclara
-            </a>
+            </Link>
             <div className="ms-1 sm:ms-2"></div>
           </div>
 
@@ -51,20 +51,19 @@ export function Header() {
         <div id="hs-navbar-collapse" className="hidden hs-collapse overflow-hidden transition-all duration-300 basis-full grow md:block">
           <div className="flex flex-col md:flex-row md:items-center md:justify-end gap-2 md:gap-3 mt-3 md:mt-0 py-2 md:py-0 md:ps-7">
             {navLinks.map(link => (
-              <a
+              <Link
                 key={link.name}
                 className={`py-0.5 md:py-3 px-4 md:px-1 border-s-2 md:border-s-0 md:border-b-2 border-transparent text-gray-500 hover:text-gray-800 focus:outline-none dark:text-neutral-400 dark:hover:text-neutral-200 ${
                   location.pathname === link.path ? 'text-blue-500 dark:text-white' : ''
                 }`}
-                href={link.path}
+                to={link.path}
                 aria-current={location.pathname === link.path ? "page" : undefined}
               >
                 {link.name}
-              </a>
+              </Link>
             ))}
           </div>
         </div>
-
       </nav>
     </header>
   )
