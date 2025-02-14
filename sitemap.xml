@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>https://visionclara.in/</loc>
-      <changefreq>weekly</changefreq>
+      <loc>https://krishnakantvishwakarma-titan.github.io/Visionclara/</loc>
+      <lastmod>2024-02-20</lastmod>
+      <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://visionclara.in/about</loc>
+      <loc>https://krishnakantvishwakarma-titan.github.io/Visionclara/#/about</loc>
+      <lastmod>2024-02-20</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://visionclara.in/services</loc>
+      <loc>https://krishnakantvishwakarma-titan.github.io/Visionclara/#/services</loc>
+      <lastmod>2024-02-20</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://visionclara.in/contact</loc>
+      <loc>https://krishnakantvishwakarma-titan.github.io/Visionclara/#/contact</loc>
+      <lastmod>2024-02-20</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://visionclara.in/terms</loc>
-      <changefreq>yearly</changefreq>
+      <loc>https://krishnakantvishwakarma-titan.github.io/Visionclara/#/terms</loc>
+      <lastmod>2024-02-20</lastmod>
+      <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://visionclara.in/privacy</loc>
-      <changefreq>yearly</changefreq>
+      <loc>https://krishnakantvishwakarma-titan.github.io/Visionclara/#/privacy</loc>
+      <lastmod>2024-02-20</lastmod>
+      <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
 </urlset> 
