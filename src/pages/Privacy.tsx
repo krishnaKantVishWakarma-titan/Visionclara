@@ -87,6 +87,10 @@ export function Privacy() {
            section.items.length > 0 && typeof section.items[0] === 'string';
   };
 
+  const isContactSection = (section: Section): section is ContactSection => {
+    return 'companyInfo' in section;
+  };
+
   return (
     <div>
       <Header />
@@ -171,7 +175,7 @@ export function Privacy() {
                 )}
 
                 {/* For contact section with company info */}
-                {'companyInfo' in section && (
+                {isContactSection(section) && (
                   <div className="space-y-2">
                     <p className="text-lg text-gray-800 dark:text-neutral-200">{section.content}</p>
                     <div className="space-y-1 mt-4">
@@ -186,7 +190,7 @@ export function Privacy() {
                 {/* For sections with additional contact info */}
                 {'contactInfo' in section && (
                   <p className="text-lg text-gray-800 dark:text-neutral-200 mt-2">
-                    {section.contactInfo}
+                    {String(section.contactInfo)}
                   </p>
                 )}
               </div>
