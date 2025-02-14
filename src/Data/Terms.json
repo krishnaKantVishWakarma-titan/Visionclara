@@ -1,0 +1,123 @@
+{
+  "title": "Terms and Conditions",
+  "metadata": {
+    "lastUpdated": "2025-02-14",
+    "companyName": "Visionclara"
+  },
+  "introduction": {
+    "content": "Welcome to Visionclara! These Terms and Conditions (\"Terms\") govern your use of our website, services, and products. By accessing or using our website, you agree to comply with these Terms. If you do not agree with any part of these Terms, please do not use our website."
+  },
+  "sections": {
+    "definitions": {
+      "title": "Definitions",
+      "items": [
+        {
+          "term": "Company",
+          "definition": "Refers to Visionclara, including its subsidiaries and affiliates"
+        },
+        {
+          "term": "User",
+          "definition": "Any individual or entity accessing or using our website and services"
+        },
+        {
+          "term": "Services",
+          "definition": "All products, solutions, software, and consulting services offered by the Company"
+        },
+        {
+          "term": "Website",
+          "definition": "The official website of Visionclara at [Your Website URL]"
+        }
+      ]
+    },
+    "useOfServices": {
+      "title": "Use of Our Services",
+      "items": [
+        "You must be at least 18 years old to use our services",
+        "You agree to use our website and services only for lawful purposes",
+        "Unauthorized use, such as hacking, scraping, or any activity that violates laws or regulations, is strictly prohibited",
+        "We reserve the right to suspend or terminate access if any misuse is detected"
+      ]
+    },
+    "intellectualPropertyRights": {
+      "title": "Intellectual Property Rights",
+      "items": [
+        "All content, including text, graphics, logos, software, and designs, is the exclusive property of Visionclara",
+        "Users are prohibited from copying, modifying, distributing, or using any part of our website without prior written consent"
+      ]
+    },
+    "userObligations": {
+      "title": "User Obligations",
+      "items": [
+        "Users must provide accurate and complete information when using our services",
+        "Users are responsible for maintaining the confidentiality of their account credentials",
+        "Any breach of security must be reported to us immediately"
+      ]
+    },
+    "serviceAvailability": {
+      "title": "Service Availability and Modifications",
+      "items": [
+        "We strive to provide uninterrupted service, but we do not guarantee 100% uptime",
+        "We may update, modify, or discontinue services at any time without prior notice"
+      ]
+    },
+    "limitationOfLiability": {
+      "title": "Limitation of Liability",
+      "items": [
+        "We are not liable for any direct, indirect, incidental, or consequential damages arising from your use of our services",
+        "We do not guarantee the accuracy, reliability, or completeness of the information on our website"
+      ]
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy",
+      "items": [
+        "Your use of our services is also governed by our Privacy Policy, which outlines how we collect, use, and protect your data",
+        "By using our services, you agree to our data collection practices as described in our Privacy Policy"
+      ]
+    },
+    "paymentAndRefund": {
+      "title": "Payment and Refund Policy",
+      "items": [
+        "Payments for our services must be made in accordance with the agreed terms",
+        "Refunds are issued only as per the terms outlined in our Refund Policy"
+      ]
+    },
+    "thirdPartyLinks": {
+      "title": "Third-Party Links and Services",
+      "items": [
+        "Our website may contain links to third-party websites",
+        "We are not responsible for the content, policies, or practices of any third-party websites"
+      ]
+    },
+    "terminationOfServices": {
+      "title": "Termination of Services",
+      "items": [
+        "We reserve the right to suspend or terminate services if a user violates these Terms",
+        "Upon termination, users must cease using our services and return any proprietary materials"
+      ]
+    },
+    "governingLaw": {
+      "title": "Governing Law and Dispute Resolution",
+      "items": [
+        "These Terms are governed by the laws of [Your Country/State]",
+        "Any disputes shall be resolved through arbitration or mediation in [Your Location]"
+      ]
+    },
+    "changes": {
+      "title": "Changes to Terms and Conditions",
+      "items": [
+        "We may update these Terms from time to time",
+        "Continued use of our website and services after changes are posted constitutes acceptance of the new Terms"
+      ]
+    },
+    "contactInformation": {
+      "title": "Contact Information",
+      "content": "For any questions or concerns regarding these Terms, please contact us at:",
+      "details": {
+        "email": "contact@visionclara.com",
+        "phone": "+91 7697114202",
+        "address": "Piplani Road, Bhopal, MP, India"
+      }
+    }
+  }
+}
+

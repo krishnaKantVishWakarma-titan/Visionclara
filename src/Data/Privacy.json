@@ -1,0 +1,108 @@
+{
+  "title": "Privacy Policy",
+  "metadata": {
+    "effectiveDate": "2025-02-14",
+    "lastUpdated": "2025-02-14"
+  },
+  "sections": {
+    "introduction": {
+      "title": "Introduction",
+      "content": "Welcome to Visionclara (\"we,\" \"our,\" or \"us\"). Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you visit our website Visionclara.in and use our services."
+    },
+    "informationWeCollect": {
+      "title": "Information We Collect",
+      "subsections": {
+        "personalInformation": {
+          "title": "Personal Information",
+          "content": "When you interact with us, we may collect personal information such as:",
+          "items": [
+            "Name, email address, phone number",
+            "Business or company details",
+            "Billing and payment information",
+            "Login credentials (if applicable)"
+          ]
+        },
+        "nonPersonalInformation": {
+          "title": "Non-Personal Information",
+          "content": "We may collect non-personal data automatically, such as:",
+          "items": [
+            "IP address, browser type, and operating system",
+            "Website usage data, including pages visited and time spent on our site",
+            "Cookies and tracking technologies (see Section 6)"
+          ]
+        }
+      }
+    },
+    "howWeUseInformation": {
+      "title": "How We Use Your Information",
+      "items": [
+        "Provide and improve our IT services",
+        "Process transactions and send invoices",
+        "Respond to inquiries and provide customer support",
+        "Send marketing and promotional content (with your consent)",
+        "Enhance website functionality and user experience",
+        "Comply with legal obligations"
+      ]
+    },
+    "howWeShareInformation": {
+      "title": "How We Share Your Information",
+      "content": "We do not sell or rent your personal data. However, we may share your information with:",
+      "items": [
+        {
+          "title": "Service Providers",
+          "description": "Third-party vendors assisting in payment processing, hosting, or customer support"
+        },
+        {
+          "title": "Legal Compliance",
+          "description": "Authorities or regulators if required by law"
+        },
+        {
+          "title": "Business Transfers",
+          "description": "In case of a merger, acquisition, or sale of assets"
+        }
+      ]
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "content": "We implement industry-standard security measures to protect your data from unauthorized access, alteration, or disclosure. However, no method of transmission over the internet is 100% secure, and we cannot guarantee absolute security."
+    },
+    "cookiesAndTracking": {
+      "title": "Cookies & Tracking Technologies",
+      "content": "We use cookies and similar technologies to enhance your experience. You can manage or disable cookies through your browser settings. However, some features of our website may not function properly without cookies."
+    },
+    "thirdPartyLinks": {
+      "title": "Third-Party Links",
+      "content": "Our website may contain links to third-party sites. We are not responsible for their privacy practices and encourage you to review their policies before providing any personal data."
+    },
+    "yourRightsAndChoices": {
+      "title": "Your Rights & Choices",
+      "content": "Depending on your location, you may have the following rights:",
+      "items": [
+        "Access, update, or delete your personal information",
+        "Opt-out of marketing emails",
+        "Restrict or object to certain data processing activities",
+        "Request data portability"
+      ],
+      "contactInfo": "To exercise these rights, please contact us at [your email address]."
+    },
+    "childrensPrivacy": {
+      "title": "Children's Privacy",
+      "content": "Our services are not intended for children under 13. We do not knowingly collect personal data from minors. If we become aware of such collection, we will take appropriate action to delete the data."
+    },
+    "changes": {
+      "title": "Changes to This Privacy Policy",
+      "content": "We may update this policy periodically. Any changes will be posted on this page with an updated effective date. Your continued use of our website constitutes acceptance of the revised policy."
+    },
+    "contactUs": {
+      "title": "Contact Us",
+      "content": "If you have any questions about this Privacy Policy, please contact us at:",
+      "companyInfo": {
+        "name": "Visionclara",
+        "address": "Piplani Road, Bhopal, MP, India",
+        "email": "contact@visionclara.com",
+        "phone": "+91 7697114202"
+      }
+    }
+  }
+}
+

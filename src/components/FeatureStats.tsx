@@ -1,6 +1,6 @@
 export function FeatureStats() {
   return (
-    <div className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+    <div className="max-w-5xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
       {/* Grid */}
       <div className="grid gap-6 grid-cols-2 sm:gap-12 lg:grid-cols-3 lg:gap-8">
         {/* Stats */}
@@ -14,8 +14,8 @@ export function FeatureStats() {
         {/* Stats */}
         <div>
           <h4 className="text-lg sm:text-xl font-semibold text-gray-800 dark:text-neutral-200">Startup businesses</h4>
-          <p className="mt-2 sm:mt-3 text-4xl sm:text-6xl font-bold text-blue-600">2,000+</p>
-          <p className="mt-1 text-gray-500 dark:text-neutral-500">partner with Preline</p>
+          <p className="mt-2 sm:mt-3 text-4xl sm:text-6xl font-bold text-blue-600">20+</p>
+          <p className="mt-1 text-gray-500 dark:text-neutral-500">partner with VisionClara</p>
         </div>
         {/* End Stats */}
 

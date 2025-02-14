@@ -1,5 +1,4 @@
 import { Footer } from '../components/Footer'
-// import { CardSection } from '../components/CardSection'
 import { Header } from '../components/Header'
 import { HeroSection } from '../components/HeroSection'
 import { FeatureSection } from "../components/FeatureSection";
@@ -13,7 +12,6 @@ export function Home() {
       <HeroSection />
       <FeatureStats />
       <FeatureSection />
-      {/* <CardSection /> */}
       <TestimonialSection />
       <Footer />
     </div>

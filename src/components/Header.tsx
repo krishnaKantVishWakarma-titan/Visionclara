@@ -6,8 +6,8 @@ const navLinks = [
   { name: "Services", path: "/services" },
   { name: "About", path: "/about" },
   { name: "Contact Us", path: "/contact" },
-  { name: "Terms", path: "/terms" },
-  { name: "Privacy", path: "/privacy" }
+  // { name: "Terms", path: "/terms" },
+  // { name: "Privacy", path: "/privacy" }
 ];
 
 export function Header() {

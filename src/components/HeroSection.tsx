@@ -33,12 +33,12 @@ export function HeroSection() {
     return (
         <div className="relative overflow-hidden before:absolute before:top-0 before:start-1/2 before:bg-[url('https://preline.co/assets/svg/examples/squared-bg-element.svg')] dark:before:bg-[url('https://preline.co/assets/svg/examples-dark/squared-bg-element.svg')] before:bg-no-repeat before:bg-top before:w-[150%] before:h-[150%] before:-z-[1] before:transform before:-translate-x-1/2">
             {/* Hero */}
-            <div className="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-10">
+            <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-10">
                 {/* Announcement Banner */}
                 <div className="flex justify-center">
                 <a className="group inline-flex items-center bg-white/10 hover:bg-white/10 border border-white/10 p-1 ps-4 rounded-full shadow-md focus:outline-none focus:bg-white/10" href="#">
                     <p className="me-2 text-white text-sm">
-                    Preline UI Figma is live.
+                    Visionclara is live.
                     </p>
                     <span className="group-hover:bg-white/10 py-1.5 px-2.5 flex justify-center items-center gap-x-2 rounded-full bg-white/10 font-semibold text-white text-sm">
                     <ArrowIcon />
@@ -48,20 +48,20 @@ export function HeroSection() {
 
                 {/* Title */}
                 <div className="mt-5 max-w-xl text-center mx-auto">
-                    <h1 className="block font-bold text-gray-800 text-4xl md:text-5xl lg:text-6xl dark:text-neutral-200">
-                        Supercharged Preline Experience
+                    <h1 className="block font-bold text-gray-800 text-4xl md:text-4xl lg:text-5xl dark:text-neutral-200">
+                      Transforming Ideas into Cutting-Edge Solutions
                     </h1>
                 </div>
 
                 <div className="mt-5 max-w-3xl text-center mx-auto">
                     <p className="text-lg text-gray-600 dark:text-neutral-400">
-                        Preline is a large open-source project, crafted with Tailwind CSS framework by Hmlstream.
+                      Empowering businesses with innovative technology, seamless software solutions, and future-ready digital experiences.
                     </p>
                 </div>
 
                 {/* Buttons */}
                 <div className="text-center mt-8">
-                    <GradientButton href="#">
+                    <GradientButton href="/contact">
                         Get started
                         <ArrowIcon />
                     </GradientButton>
